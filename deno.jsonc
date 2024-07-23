@@ -1,0 +1,10 @@
+{
+  "name": "@nik-kita/spa-server",
+  "version": "1.0.0",
+  "exports": {
+    ".": "./mod.ts"
+  },
+  "imports": {
+    "@std/http": "jsr:@std/http@^0.224.5"
+  }
+}
